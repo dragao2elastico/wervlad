@@ -10,11 +10,15 @@
 </p>
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/dragao2elastico)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/dragao2elastico)
+[![Html](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/dragao2elastico)
+[![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/dragao2elastico)
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/dragao2elastico)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/dragao2elastico)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/dragao2elastico)
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/dragao2elastico)
-[![Bat](https://img.shields.io/badge/bat-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/dragao2elastico)
+[![Bat](https://img.shields.io/badge/bat-black?style=for-the-badge&logo=gnu-bat&logoColor=white)](https://github.com/dragao2elastico)
+
 
 
 ### OS
